@@ -1,0 +1,135 @@
+     {
+                "category": "AuditLogs",
+                "categoryGroup": null,
+                "enabled": true,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "SignInLogs",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "NonInteractiveUserSignInLogs",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "ServicePrincipalSignInLogs",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "ManagedIdentitySignInLogs",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "ProvisioningLogs",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "ADFSSignInLogs",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "RiskyUsers",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "UserRiskEvents",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "NetworkAccessTrafficLogs",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "RiskyServicePrincipals",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "ServicePrincipalRiskEvents",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "EnrichedOffice365AuditLogs",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "MicrosoftGraphActivityLogs",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            },
+            {
+                "category": "RemoteNetworkHealthLogs",
+                "categoryGroup": null,
+                "enabled": false,
+                "retentionPolicy": {
+                    "days": 0,
+                    "enabled": false
+                }
+            }
