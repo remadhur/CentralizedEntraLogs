@@ -1,0 +1,2 @@
+# CentralizedEntraLogs
+Centralized Entra logs
